@@ -1,0 +1,11 @@
+#,DomainName,DomainInterval,HostInterval,MXInterval,NSInterval
+1,google.com,0.022,0.005,0.103,0.044
+2,facebook.com,0.007,0.026,0.132,0.227
+3,youtube.com,0.008,0.029,0.071,0.03
+4,yahoo.com,0.012,0.025,0.071,0.515
+5,baidu.com,0.426,0.004,2.873,2.87
+6,wikipedia.org,0.012,0.009,0.077,0.025
+7,qq.com,0.339,0.004,71.911,72.705
+8,live.com,0.039,0.161,0.182,0.058
+9,taobao.com,0.377,0.699,0.466,1.332
+10,linkedin.com,0.02,0.016,0.091,0.156

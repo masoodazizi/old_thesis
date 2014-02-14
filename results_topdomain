@@ -1,0 +1,35 @@
+The number of whole domains: 1000
+The number of IPv6-enabled for:
+<<domains>>: 113 (11.3%)
+<<www-hosts>>: 128 (12.8%)
+<<mail-exchangers>>: 286 (28.6%)
+<<DNS-servers>>: 374 (37.4%)
+<<domains>> and <<mail-exchangers>>: 60 (6.0%)
+<<domains>> and <<www-hosts>> : 112 (11.2%)
+<<mail-exchangers>> and <<DNS-servers>>: 125 (12.5%)
+<<domains>> , <<www-hosts>> and <<mail-exchangers>>: 60 (6.0%)
+<<domains>> , <<www-hosts>> , <<mail-exchangers>> and <<DNS-servers>>: 4 (0.4%)
+Resolving duration of the program is 2284.30419707 seconds.
+
+
+
+The number of whole domains: 100
+The number of IPv6-enabled for:
+<<domains>>: 23 (23.0%)
+<<www-hosts>>: 27 (27.0%)
+<<mail-exchangers>>: 32 (32.0%)
+<<DNS-servers>>: 28 (28.0%)
+<<domains>> and <<www-hosts>> : 23 (23.0%)
+<<domains>> and <<mail-exchangers>>: 19 (19.0%)
+<<mail-exchangers>> and <<DNS-servers>>: 8 (8.0%)
+<<domains>> , <<www-hosts>> and <<mail-exchangers>>: 19 (19.0%)
+<<domains>> , <<www-hosts>> , <<mail-exchangers>> and <<DNS-servers>>: 0 (0.0%)
+Resolving duration of the program is 390.576732159 seconds.
+
+
+
+The number of whole domains: 1000
+The number of IPv6-enabled domains: 113 (11.3%)
+The number of IPv6-enabled www-hosts of domains: 126 (12.6%)
+The number of IPv6-enabled both www-hosts and domains: 110 (11.0%)
+Resolving duration of the program is 413.887099028 seconds.

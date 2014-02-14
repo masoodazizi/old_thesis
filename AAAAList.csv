@@ -1,0 +1,11 @@
+#,DomainName,DomainIPv6,WWWhostIPv6,MXIPv6,NSIPv6
+1,google.com,1,1,1,0
+2,facebook.com,1,1,0,0
+3,youtube.com,1,1,1,0
+4,yahoo.com,0,1,0,0
+5,baidu.com,0,0,0,0
+6,wikipedia.org,1,1,1,0
+7,qq.com,0,0,0,0
+8,live.com,0,0,0,1
+9,taobao.com,0,0,0,0
+10,linkedin.com,0,0,1,1
